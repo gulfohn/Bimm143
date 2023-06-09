@@ -1,7 +1,7 @@
-# Bimm143
-Bioinformatic lab class
-This repo is for my UCSD bioinformatics class.
+# Classwork
 
-Add changes from local computer.
+This page contains my classwork from BIMM 143: Bioinformatics Lab at UCSD in spring of 2023. The main class homepage is [here](https://marcos-diazg.github.io/BIMM143_SP23/)
 
-Add changes from remote, 
+## Content
+
+-    Class 5: [Data exploration and visualization in R]
