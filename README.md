@@ -4,4 +4,4 @@ This page contains my classwork from BIMM 143: Bioinformatics Lab at UCSD in spr
 
 ## Content
 
--    Class 5: [Data exploration and visualization in R](file:///Users/megandeschenes/Downloads/class05BIMM143%20Gabriel's.pdf)
+-    Class 5: [Data exploration and visualization in R]file:///Users/megandeschenes/Downloads/class05BIMM143%20Gabriel's.pdf
